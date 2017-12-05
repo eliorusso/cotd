@@ -16,14 +16,14 @@ session_start();
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>COTD</title>
 	<!-- <link rel="stylesheet"  href="code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css"> -->
-	<link rel="stylesheet"  href="code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+	<link rel="stylesheet"  href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
 	<link rel="stylesheet" href="css/jqm-demos.css">
 	<link rel="stylesheet" href="css/swipe-page.css">
 	<link rel="shortcut icon" href="css/favicon.ico">
 	<script src="js/jquery.js"></script>
 	<script src="js/index.js"></script>
 	<!-- <script src="code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js"></script> -->
-	<script src="code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+	<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 	<script src="js/swipe-page.js"></script>
 	<script src="js/rateThis.js"></script>
 
