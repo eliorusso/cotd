@@ -184,7 +184,7 @@ cache: false
 		</div>
 
 
-		<a href="#trivia" data-rel="popup" class="trivia-btn ui-btn-right" data-role="button" data-icon="info" data-iconpos="left" data-theme="d" data-mini="true">Aboutttttt</a>
+		<a href="#trivia" data-rel="popup" class="trivia-btn ui-btn-right" data-role="button" data-icon="info" data-iconpos="left" data-theme="d" data-mini="true">About</a>
     </div><!-- /footer -->
 
 </div><!-- /page -->
